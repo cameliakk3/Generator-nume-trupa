@@ -1,0 +1,5 @@
+print("Buna ziua si bine ati venit la generatorul nume trupa")
+nume_oras = input("Care este orasul in care te-ai nascut?\n")
+nume_animal = input("Care este numele animalului tau de companie?\n")
+print("Nume banda:" + nume_animal + " " + nume_oras)
+print("hello")
